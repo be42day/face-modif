@@ -44,6 +44,6 @@ Project Link: https://github.com/be42day/face-modif
 
 ## Acknowledgments
 
-* [Mediapipe](https://mediapipe.dev/)
+* [MediaPipe](https://mediapipe.dev/)
 * [Moving Least Squares (MLS)](https://github.com/Jarvis73/Moving-Least-Squares)
 
