@@ -36,3 +36,14 @@ Use the following command to run the code :
 ```bash
 python app.py --image=[image_path] --threshold=[number]
 ```
+## Contact
+
+Ehsan - iraf1404@gmail.com
+
+Project Link: https://github.com/be42day/face-modif
+
+## Acknowledgments
+
+* [Mediapipe](https://mediapipe.dev/)
+* [Moving Least Squares (MLS)](https://github.com/Jarvis73/Moving-Least-Squares)
+
